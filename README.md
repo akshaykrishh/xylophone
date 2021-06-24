@@ -4,7 +4,5 @@
 
 We use an Apple library called AVFoundation to play sound. Every time you press a key it plays the sound related to that.
 
-<img src="https://user-images.githubusercontent.com/55594879/123239976-83eb9180-d4fd-11eb-8092-d11defb7acf1.gif" alt="demo" width = "100"/>
-![xylophone_sim](https://user-images.githubusercontent.com/55594879/123239976-83eb9180-d4fd-11eb-8092-d11defb7acf1.gif){ width: 50%; }
-
+<img src="https://user-images.githubusercontent.com/55594879/123239976-83eb9180-d4fd-11eb-8092-d11defb7acf1.gif" alt="demo" width = "150"/>
 
